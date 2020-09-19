@@ -12,7 +12,6 @@ header{
 	background:#2a7082;
 	text-align: right;
 	padding-top:10px;
-	padding-right:50px;
 }
 
 body{
@@ -24,6 +23,7 @@ h1{
 	font-size:280%;
 	color:#ffffff;
 	cursor:context-menu;
+	padding-right:50px;
 }
 
 main{
