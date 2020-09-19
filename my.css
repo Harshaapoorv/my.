@@ -1,3 +1,10 @@
+body,head,header,footer,section,a,nav,
+li,ul,progress,html,details,summary,img,
+p,h1,h2,meta,title,label{
+	padding:0px;
+	border:0px;
+	margin:0px;
+}
 header{
 	height:10%;
 	width:100%;
@@ -16,6 +23,7 @@ h1{
 	font-size:280%;
 	color:#ffffff;
 	cursor:context-menu;
+	padding-right:50px;
 }
 
 main{
