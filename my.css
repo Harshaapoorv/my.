@@ -5,6 +5,7 @@ p,h1,h2,meta,title,label{
 	border:0px;
 	margin:0px;
 }
+
 header{
 	height:10%;
 	width:100%;
@@ -12,6 +13,7 @@ header{
 	background:#2a7082;
 	text-align: right;
 	padding-top:10px;
+	padding-right:50px;
 }
 
 body{
@@ -33,7 +35,7 @@ main{
 	margin-left:1%;
 	height:86%;
 	background:#000;
-	background-image:url("C:/Users/Admin/New folder/OneDrive/Desktop/HarshaFiles/Background/77589.jpg.png");
+	background-image:url("77589.jpg.png");
 }
 
 main p{
